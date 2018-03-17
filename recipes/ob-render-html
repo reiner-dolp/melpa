@@ -1,0 +1,3 @@
+(ob-browser :fetcher github
+	    :repo "reiner-dolp/ob-render-html"
+	    :files ("*.js" "*.el"))
